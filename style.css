@@ -309,7 +309,7 @@ h4 {
     align-items: center;
     flex-wrap: wrap;
     gap: 0.85rem;
-    margin-bottom: 2.75rem;
+    margin-bottom: 0;
 }
 
 .hero-highlights {

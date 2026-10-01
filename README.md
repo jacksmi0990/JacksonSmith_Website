@@ -1,0 +1,4 @@
+This projects is a website that contains a brief overview of what I'm pursuing in college and what my major is. The links inside of the site include my resume, my projects that I have done outside of college, and ways to contact me. The link for this site is https://jacksmi0990.github.io/JacksonSmith_Website/ 
+
+
+When building this website I used Antigravity, which gave me AI agents to collaborate with and establish my goal for the site. Things that I learned about coding with Ai is that the prompts that you give to these agents need to be very specific and in depth. When starting out, I didn't focus on this, which resulted in my website not reflecting what I had in mind. Later on I spent more time on what I wanted the agent to do, and took more time making my prompts express my goals for the site.  
